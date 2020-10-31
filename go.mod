@@ -1,4 +1,4 @@
-module golang.org/x/crypto
+module github.com/Geo25rey/crypto
 
 go 1.11
 
